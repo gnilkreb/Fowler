@@ -10,8 +10,8 @@ class Customer {
         this.name = name;
     }
 
-    public void addRental(Rental arg) {
-        rentals.addElement(arg);
+    public void addRental(Rental rental) {
+        rentals.addElement(rental);
     }
 
     public String getName (){
