@@ -6,7 +6,7 @@ class Customer {
     private String name;
     private Vector rentals = new Vector();
 
-    public Customer (String name){
+    public Customer(String name) {
         this.name = name;
     }
 
@@ -14,7 +14,7 @@ class Customer {
         rentals.addElement(rental);
     }
 
-    public String getName (){
+    public String getName() {
         return name;
     }
 
