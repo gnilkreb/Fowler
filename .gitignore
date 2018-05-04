@@ -1,0 +1,10 @@
+*.iml
+.idea
+.DS_Store
+*.jar
+*.war
+*.ear
+*.class
+*.tmp
+*.bak
+.directory
